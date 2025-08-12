@@ -3,6 +3,6 @@
 
 int main() {
   unsigned long long int max = (unsigned long long int) (pow(2,64) - 1);
-	printf("highest number represented by unsigned long lomg int is %llu\n", max);
+	printf("highest number represented by unsigned long long int is %llu\n", max);
 	return 0;
 }
